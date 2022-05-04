@@ -1,0 +1,33 @@
+_repo: Eris_67856
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chambers, Robert W. (Robert William)
+    alias: Chambers, Robert William
+    birthdate: 1865
+    deathdate: 1933
+    gutenberg_agent_id: '38191'
+    url: http://www.gutenberg.org/2009/agents/38191
+    wikipedia: https://en.wikipedia.org/wiki/Robert_W._Chambers
+description: ''
+gutenberg_issued: '2022-04-17'
+identifiers:
+  gutenberg: '67856'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/uc2.ark:/13960/t6sx6685n
+pgterms:marc905: 20200411024403chambers
+pgterms:marc906: '1922'
+pgterms:marc907: US
+production_note: Susan Skinner, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: United States :George H. Doran Company,1922.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American fiction -- 20th century'
+- GITenberg
+title: Eris
+url: http://www.gutenberg.org/ebooks/67856
